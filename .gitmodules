@@ -1,3 +1,6 @@
 [submodule "dwm/src/dwm"]
 	path = dwm/src/dwm
 	url = https://github.com/ryanArora/dwm
+[submodule "dmenu/src/dmenu"]
+	path = dmenu/src/dmenu
+	url = https://github.com/ryanArora/dmenu
