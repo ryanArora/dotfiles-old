@@ -27,3 +27,9 @@ user_pref("devtools.theme.show-auto-theme-info", false);
 /* remove password manager ***/
 user_pref("signon.rememberSignons", false);
 user_pref("signon.management.page.breach-alerts.enabled", false);
+
+/* remember cookies ***/
+user_pref("network.cookie.lifetimePolicy", 0);
+
+/* enable autoplay ***/
+user_pref("media.autoplay.default", 0);
