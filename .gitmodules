@@ -10,3 +10,6 @@
 [submodule "firefox/src/arkenfox-updater"]
 	path = firefox/src/arkenfox-updater
 	url = https://github.com/ryanArora/arkenfox-updater
+[submodule "slstatus/src/slstatus"]
+	path = slstatus/src/slstatus
+	url = https://github.com/ryanArora/slstatus
