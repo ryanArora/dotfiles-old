@@ -7,3 +7,6 @@
 [submodule "st/src/st"]
 	path = st/src/st
 	url = https://github.com/ryanArora/st
+[submodule "firefox/src/arkenfox-updater"]
+	path = firefox/src/arkenfox-updater
+	url = https://github.com/ryanArora/arkenfox-updater
