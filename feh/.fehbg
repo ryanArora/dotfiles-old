@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --no-fehbg --bg-scale '/usr/share/feh/wallpapers/mmm_pretty.png' 
+feh --no-fehbg --bg-scale '/usr/share/feh/wallpapers/' 
