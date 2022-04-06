@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+antibody bundle < ~/.config/zsh/plugins.txt > ~/.config/zsh/plugins.sh
